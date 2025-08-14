@@ -3,6 +3,7 @@ import google.generativeai as genai
 import os
 from dotenv import load_dotenv
 
+
 #load the env variables
 load_dotenv()
 
